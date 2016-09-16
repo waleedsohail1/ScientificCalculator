@@ -1,0 +1,20 @@
+CREDITS 
+------------------------------------------------------
+MAIN CODING: WALEED SOHAIL	
+CALCULATOR.H FILE: WALEED SOHAIL
+BASIC CALCULATOR: WALEED SOHAIL
+CONVERSION OF STRING TO INT:WALEED SOHAIL
+EASY BASIC CALCULATOR: WALEED SOHAIL
+SCIENTIFIC CALCULATOR: RIDA AHMED
+CONVERSION OF FLOAT TO FRACTION: RIDA AHMED
+FACTORIAL & POWER CALCULATOR: RIDA AHMED
+ADVANCED CALCULATOR: KIRAN KAMAL
+LOGRITHMIC CALCULATOR: KIRAN KAMAL
+TRIGNOMETRIC CALCULATOR: KIRAN KAMAL		
+ALL FILE HANDLING : WALEED SOHAIL, RIDA AHMED AND KIRAN KAMAL
+------------------------------------------------------
+A Special Thanks to Sir Mohsin Abbas, Sir Hannan Keen & Sir 
+Usman for providing us this oppurtunity. What we have learnt
+through this project matters the most, not marks. :)
+
+Press any key to go back to previous menu...
